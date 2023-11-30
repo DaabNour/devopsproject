@@ -14,7 +14,7 @@ public class User {
     private String lastNameu;
     private String emailu;
     private String phoneu;
-    private String roleu;
+    private String roleu="admin";
     private String passwordu;
 
     public Long getIdu() {
